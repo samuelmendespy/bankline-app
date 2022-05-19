@@ -10,10 +10,6 @@ O presente projeto foi gerado com [Angular CLI](https://github.com/angular/angul
  - Execute o comando **ng serve -o** para inicar o servidor no navegador padrão de seu sistema acessando http://localhost:4200/
  - Ou, se preferir, utilize **ng serve** para inicar o servidor, e , em seguida, acesse http://localhost:4200/
 
-## Versão de Produção (Build)
-
--Execute o comando `ng build` para produzir a versão de produção a ser armazenada no diretório "dist/".
-
 ## Execução de testes unitários
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
